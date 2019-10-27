@@ -1,0 +1,63 @@
+.product-list {
+  width: 700px;
+  margin: 20px auto 0;
+  padding: 0 20px;
+}
+.product-list article {
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.product-list p {
+  font-size: 16px;
+  color: #999;
+  margin-top: 5px;
+  line-height: 26px;
+}
+.product-list a {
+  height: 42px;
+  border-radius: 5px;
+  border: 2px solid #da552e;
+  text-decoration: none;
+  background: none;
+  margin-top: 10px;
+  color: #da552e;
+  font-weight: bold;
+  font-size: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: all 0.5s ease;
+}
+.product-list a:hover {
+  cursor: pointer;
+  background-color: #da552e;
+  color: #fff;
+}
+.product-list .actions {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+.product-list .actions button {
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #da552e;
+  color: #fff;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.6s ease;
+}
+.product-list .actions button:hover {
+  opacity: 0.7;
+}
+.product-list .actions button[disabled] {
+  background-color: #ddd;
+  cursor: default;
+}
+.product-list .actions button:hover[disabled] {
+  background-color: #ddd;
+}
