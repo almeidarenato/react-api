@@ -2,6 +2,9 @@
 
 Este projeto é um exemplo de consumo de api dentro de um site com a biblioteca React.<br/>
 This project is an example on how to consume an API with the react library.
+URL:<br/>
+
+**URL**: [https://react-api-rs.herokuapp.com/](https://react-api-rs.herokuapp.com/)
 
 ## Como utilizar / How to use
 
