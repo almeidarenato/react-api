@@ -18,7 +18,7 @@ To run this project locally use:
 Ao executar o projeto irá rodar em modo desenvolvimento na porta padrão: <br />
 [http://localhost:3000](http://localhost:3000) <br/>
 
-The project will run in development mode in the default port:
+The project will run in development mode in the default port:<br/>
 [http://localhost:3000](http://localhost:3000)
 
 ## Bibliotecas / Libraries:
@@ -27,4 +27,6 @@ The project will run in development mode in the default port:
 - React-dom-router
 - Axios
 
-## Créditos / Credits: RocketSeat
+## Créditos / Credits:
+
+RocketSeat
